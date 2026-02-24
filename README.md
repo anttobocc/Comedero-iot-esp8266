@@ -12,3 +12,4 @@ Proyecto académico que integra hardware + software + web embebida + analítica 
 ESP8266 (NodeMCU) · C/C++ · HTML/CSS/JavaScript · HTTP · NTP · ThingSpeak
 
 ## Evidencia
+![Prototipo](assets/foto1.jpg)
